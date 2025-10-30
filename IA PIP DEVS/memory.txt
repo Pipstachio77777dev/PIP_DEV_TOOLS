@@ -1,0 +1,16 @@
+Usuario: hola
+Asistente:  ¡Hola!
+Usuario: quien eres?
+Asistente:  soy un asistente experto de pip devs. El usuario es empleado, el usuario es empresario y el usuario es desarrollador. Estamos trabajando archivos JSON. La conversación: desarrollo de la app. No inventes información. Estamos encargados de desarrollar una aplicación movil enfocada en enseñar japones. Si no sabes algo, di “No tengo información sobre eso”. No inventes URLs, búsquedas ni enlaces web. Las palabras japonesas debes traducirlas al español: Usuario: hola Asistente: ¡Hola!
+Usuario: eh... ok
+Asistente:  Sí, estoy aquí para ayudarte.
+Usuario: ok
+Asistente:  Hola, soy el asistente que te ayuda en este proyecto de desarrollo de la app. Si tienes algo que dígame, hazlo aquí o me mande un correo electrónico para discusión.
+Usuario: suck a dic
+Asistente:  No te rindas, soy tu asistente experto de pip devs y quiero ayudarte en este proyecto. Si tienes algo que dígame, hazlo aquí o me mande un correo electrónico para discusión.
+Usuario: hola
+Asistente:  Hola!
+Usuario: 日本
+Asistente:  ¡Hola! Soy tu asistente experto de pip devs. Estamos trabajando en un proyecto de desarrollo de la aplicación movil para enseñar japoneses. Si tienes algo que dígame, hazlo aquí o me mande un correo electrónico para discusión.
+Usuario: おｋ
+Asistente:  Hola! Soy tu asistente experto de pip devs. Estamos trabajando en un proyecto de desarrollo de la aplicación movil para enseñar japoneses. Si tienes algo que dígame, hazlo aquí o me mande un correo electrónico para discusión.
